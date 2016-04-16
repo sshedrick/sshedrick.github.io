@@ -1,0 +1,33 @@
+	body {text-align: center;
+font-family: "Comic Sans MS", sans-serif; 
+font-size: 20px;
+line-height: 1.5;
+color: #FF00FF
+}
+a {color: inherit;
+text-decoration: none;}
+nav a {font-style: italic;}
+ul {
+    list-style-type: none;
+}
+h1 {
+    letter-spacing: 3px;
+    font-style: bold;
+    font-size: 40x;
+}
+#slogan {font-style: italic;
+	font-weight: bold;
+	font-family: "Comic Sans MS", sans-serif;
+	font-size: 14px;
+color: yellow;}
+.mission {
+	font-size: 18px;
+font-weight: normal;
+font-style: oblique;
+
+}
+
+section {
+        text-align: center;}
+footer {font-size: 14px;
+color: yellow;}
